@@ -19,7 +19,7 @@ jobs:
         with:
           fetch-depth: 0  # Required to get full commit history for contributions
         
-      # Create output directory if it doesn't exist
+      # Create output directory
       - name: Create output directory
         run: mkdir -p dist
         
@@ -34,7 +34,10 @@ jobs:
         
       # Verify the files were created
       - name: Verify files
-        run: ls -la dist/
+        run: |
+          ls -la dist/
+          [ -f dist/github-contribution-grid-snake.gif ] || exit 1
+          [ -f dist/github-contribution-grid-snake.svg ] || exit 1
         
       # Configure git
       - name: Setup Git
@@ -42,16 +45,15 @@ jobs:
           git config --global user.name "GitHub Actions"
           git config --global user.email "actions@github.com"
           
-      # Push to output branch
-      - name: Commit and push to output branch
-        uses: actions-ecosystem/action-push-to-another-repository@v1
-        with:
-          source-directory: 'dist'
-          destination-github-username: '${{ github.repository_owner }}'
-          destination-repository-name: '${{ github.repository }}'
-          destination-branch: 'output'
-          github-token: ${{ secrets.GITHUB_TOKEN }}
-          commit-message: "Update contribution snake [auto]"
+      # Push to output branch (simplified version)
+      - name: Push to output branch
+        run: |
+          git checkout -b output || git checkout output
+          git add dist/
+          git commit -m "Update contribution snake [auto]" || echo "No changes to commit"
+          git push origin output --force
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         
       # Deploy to GitHub Pages
       - name: Deploy to GitHub Pages
