@@ -1,9 +1,11 @@
-# 💫 About Me:
-### 👋 Hello, I'm Mouhamed Bouzayan
-🔭 Currently studying Computer Science & Full-Stack Development  
-🌱 Specializing in MERN Stack (MongoDB, Express, React, Node.js)  
-💡 Passionate about building responsive, accessible web applications  
-⚡ Fun fact: I solve coding challenges for fun!  
+# 💻 Full-Stack Web Developer | MERN Specialist
+### 🚀 Building Modern Web Apps with Passion and Precision
+
+---
+
+## 👨‍💻 About Me
+Hi, I'm **Mouhamed Bouzayan** — a passionate Full-Stack Developer specializing in the **MERN Stack**.  
+I love crafting elegant frontends, building powerful APIs, and solving coding challenges just for fun 🚀
 
 ---
 
@@ -27,18 +29,30 @@
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-
 ### 🛠 Backend:
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
 
-### DevOps & Tools:
+### ⚙️ DevOps & Tools:
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+---
+
+## 📚 Currently Exploring
+- 🧱 Prisma & TypeORM for advanced database handling  
+- 🔐 OAuth & JWT for secure auth systems  
+- ⚛️ React Native for cross-platform mobile apps
+
+---
+
+## 🧩 Featured Projects
+- 🛒 **MERN E-commerce App** – Full-stack platform with product management and payments
+- 📚 **QuizMaster Pro** – Interactive quiz app built with React + Tailwind + TypeScript
 
 ---
 
@@ -58,12 +72,6 @@
 ![](https://github-profile-trophy.vercel.app/?username=MOUHAMEDBOUZAYAN&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
-
-## 🎯 Currently Working On:
-- 🔍 Building a full-stack e-commerce platform with MERN stack
-- 📱 Learning React Native for mobile development
-- 🚀 Improving my DevOps skills with Docker and CI/CD
-
 
 ## ✍️ Dev Quote:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
