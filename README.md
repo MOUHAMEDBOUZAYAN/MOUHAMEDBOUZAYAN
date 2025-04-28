@@ -57,14 +57,23 @@ I love crafting elegant frontends, building powerful APIs, and solving coding ch
 ---
 
 ## 📈 GitHub Stats:
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MOUHAMEDBOUZAYAN&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MOUHAMEDBOUZAYAN&layout=compact&langs_count=8&theme=radical"/>
-</div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.vercel.app?user=MOUHAMEDBOUZAYAN&theme=radical" alt="GitHub Streak"/>
+
+  <a href="https://github.com/MOUHAMEDBOUZAYAN">
+    <img src="https://github-readme-stats.vercel.app/api?username=MOUHAMEDBOUZAYAN&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="Mouhamed's GitHub Stats" height="200" />
+  </a>
+
+  <a href="https://github.com/MOUHAMEDBOUZAYAN">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=MOUHAMEDBOUZAYAN&theme=radical&hide_border=true" alt="GitHub Streak" height="200"/>
+  </a>
+
+  <a href="https://github.com/MOUHAMEDBOUZAYAN">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MOUHAMEDBOUZAYAN&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" height="200"/>
+  </a>
+
 </div>
+
 
 ---
 
