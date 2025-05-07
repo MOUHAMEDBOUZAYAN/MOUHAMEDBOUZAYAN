@@ -61,15 +61,15 @@ I love crafting elegant frontends, building powerful APIs, and solving coding ch
 <div align="center">
 
   <a href="https://github.com/MOUHAMEDBOUZAYAN">
-    <img src="https://github-readme-stats.vercel.app/api?username=MOUHAMEDBOUZAYAN&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="Mouhamed's GitHub Stats" height="200" />
+    <img src="https://github-readme-stats.vercel.app/api?username=MOUHAMEDBOUZAYAN&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="Mouhamed's GitHub Stats" height="150" />
   </a>
 
   <a href="https://github.com/MOUHAMEDBOUZAYAN">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=MOUHAMEDBOUZAYAN&theme=radical&hide_border=true" alt="GitHub Streak" height="200"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=MOUHAMEDBOUZAYAN&theme=radical&hide_border=true" alt="GitHub Streak" height="150"/>
   </a>
 
   <a href="https://github.com/MOUHAMEDBOUZAYAN">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MOUHAMEDBOUZAYAN&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" height="200"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MOUHAMEDBOUZAYAN&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" height="150"/>
   </a>
 
 </div>
