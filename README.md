@@ -93,7 +93,7 @@ I believe in:
             </a>
           </p>
           <p><strong>React, TailwindCSS, Framer Motion</strong> - Présentation interactive de mes compétences et projets avec animations modernes.</p>
-        </div>
+        </div>  
       </td>
       <td width="50%">
         <h3 align="center">CookSecure-Site</h3>
@@ -106,6 +106,9 @@ I believe in:
           <p>
             <a href="https://github.com/MOUHAMEDBOUZAYAN/CookSecure-Site" target="_blank">
               <img src="https://img.shields.io/badge/Code-3F51B5?style=for-the-badge&logo=github&logoColor=white"/>
+            </a>
+            <a href="https://cuisin-app.netlify.app/" target="_blank">
+              <img src="https://img.shields.io/badge/Live-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
             </a>
           </p>
           <p><strong>Node.js, Express, MongoDB, React</strong> - Plateforme de recettes avec authentification et fonctionnalités avancées.</p>
@@ -124,6 +127,9 @@ I believe in:
           <p>
             <a href="https://github.com/MOUHAMEDBOUZAYAN/Projet-API-D-authentification" target="_blank">
               <img src="https://img.shields.io/badge/Code-3F51B5?style=for-the-badge&logo=github&logoColor=white"/>
+            </a>
+            <a href="https://projet-api-securisee-dauthentificatio.netlify.app/" target="_blank">
+              <img src="https://img.shields.io/badge/Live-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
             </a>
           </p>
           <p><strong>Node.js, Express, JWT</strong> - Système d'authentification complet avec gestion des rôles et autorisation.</p>
