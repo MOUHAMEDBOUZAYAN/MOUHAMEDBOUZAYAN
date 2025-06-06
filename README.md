@@ -77,7 +77,47 @@ I believe in:
   <table>
     <tr>
       <td width="50%">
-        <h3 align="center">Portfolio Personnel</h3>
+        <h3 align="center">🏗️ ConstructionXpert</h3>
+        <div align="center">
+          <a href="https://github.com/MOUHAMEDBOUZAYAN/Jury-Blanc-">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=MOUHAMEDBOUZAYAN&repo=Jury-Blanc-&theme=tokyonight&hide_border=true" />
+          </a>
+          <br>
+          <br>
+          <p>
+            <a href="https://github.com/MOUHAMEDBOUZAYAN/Jury-Blanc-" target="_blank">
+              <img src="https://img.shields.io/badge/Code-3F51B5?style=for-the-badge&logo=github&logoColor=white"/>
+            </a>  
+            <a href="#" target="_blank">
+              <img src="https://img.shields.io/badge/Live-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
+            </a>
+          </p>
+          <p><strong>MERN Stack, JWT, MongoDB</strong> - Plateforme de gestion de projets de construction avec système d'authentification complet et tableau de bord administrateur.</p>
+        </div>  
+      </td>
+      <td width="50%">
+        <h3 align="center">🎬 FilmExplorer</h3>
+        <div align="center">
+          <a href="https://github.com/MOUHAMEDBOUZAYAN/FilmFinder-API">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=MOUHAMEDBOUZAYAN&repo=FilmFinder-API&theme=tokyonight&hide_border=true" />
+          </a>
+          <br>
+          <br>
+          <p>
+            <a href="https://github.com/MOUHAMEDBOUZAYAN/FilmFinder-API" target="_blank">
+              <img src="https://img.shields.io/badge/Code-3F51B5?style=for-the-badge&logo=github&logoColor=white"/>
+            </a>
+            <a href="#" target="_blank">
+              <img src="https://img.shields.io/badge/Live-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
+            </a>
+          </p>
+          <p><strong>React, API Integration, TailwindCSS</strong> - Application de découverte de films avec API externe, recherche avancée et interface utilisateur moderne.</p>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%">
+        <h3 align="center">💼 Portfolio Personnel</h3>
         <div align="center">
           <a href="https://github.com/MOUHAMEDBOUZAYAN/MY-PORTFOLIO">
             <img src="https://github-readme-stats.vercel.app/api/pin/?username=MOUHAMEDBOUZAYAN&repo=MY-PORTFOLIO&theme=tokyonight&hide_border=true" />
@@ -92,11 +132,11 @@ I believe in:
               <img src="https://img.shields.io/badge/Live-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
             </a>
           </p>
-          <p><strong>React, TailwindCSS, Framer Motion</strong> - Présentation interactive de mes compétences et projets avec animations modernes.</p>
+          <p><strong>React, TailwindCSS, Framer Motion</strong> - Présentation interactive de mes compétences et projets avec animations modernes et design responsive.</p>
         </div>  
       </td>
       <td width="50%">
-        <h3 align="center">CookSecure-Site</h3>
+        <h3 align="center">🍳 CookSecure</h3>
         <div align="center">
           <a href="https://github.com/MOUHAMEDBOUZAYAN/CookSecure-Site">
             <img src="https://github-readme-stats.vercel.app/api/pin/?username=MOUHAMEDBOUZAYAN&repo=CookSecure-Site&theme=tokyonight&hide_border=true" />
@@ -111,13 +151,13 @@ I believe in:
               <img src="https://img.shields.io/badge/Live-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
             </a>
           </p>
-          <p><strong>Node.js, Express, MongoDB, React</strong> - Plateforme de recettes avec authentification et fonctionnalités avancées.</p>
+          <p><strong>Node.js, Express, MongoDB, React</strong> - Plateforme de recettes culinaires avec authentification sécurisée et fonctionnalités communautaires.</p>
         </div>
       </td>
     </tr>
     <tr>
       <td width="50%">
-        <h3 align="center">SecureAuth System</h3>
+        <h3 align="center">🔐 SecureAuth System</h3>
         <div align="center">
           <a href="https://github.com/MOUHAMEDBOUZAYAN/Projet-API-D-authentification">
             <img src="https://github-readme-stats.vercel.app/api/pin/?username=MOUHAMEDBOUZAYAN&repo=Projet-API-D-authentification&theme=tokyonight&hide_border=true" />
@@ -132,11 +172,11 @@ I believe in:
               <img src="https://img.shields.io/badge/Live-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
             </a>
           </p>
-          <p><strong>Node.js, Express, JWT</strong> - Système d'authentification complet avec gestion des rôles et autorisation.</p>
+          <p><strong>Node.js, Express, JWT, bcrypt</strong> - API d'authentification robuste avec gestion des rôles, autorisation et sécurité avancée.</p>
         </div>
       </td>
       <td width="50%">
-        <h3 align="center">Music App</h3>
+        <h3 align="center">🎵 Music Streaming App</h3>
         <div align="center">
           <a href="https://github.com/MOUHAMEDBOUZAYAN/Music-App--Project-file-Rouge-">
             <img src="https://github-readme-stats.vercel.app/api/pin/?username=MOUHAMEDBOUZAYAN&repo=Music-App--Project-file-Rouge-&theme=tokyonight&hide_border=true" />
@@ -147,12 +187,28 @@ I believe in:
             <a href="https://github.com/MOUHAMEDBOUZAYAN/Music-App--Project-file-Rouge-" target="_blank">
               <img src="https://img.shields.io/badge/Code-3F51B5?style=for-the-badge&logo=github&logoColor=white"/>
             </a>
+            <a href="#" target="_blank">
+              <img src="https://img.shields.io/badge/Demo-FF4B4B?style=for-the-badge&logo=youtube&logoColor=white"/>
+            </a>
           </p>
-          <p><strong>MERN Stack</strong> - Application de streaming musical avec bibliothèque personnalisée et lecteur audio.</p>
+          <p><strong>MERN Stack, WebAudio API</strong> - Application de streaming musical complète avec bibliothèque personnalisée, lecteur audio et gestion des playlists.</p>
         </div>
       </td>
     </tr>
   </table>
+</div>
+
+## 🌟 Project Highlights
+
+<div align="center">
+  
+  ### 🏆 Latest Achievements
+  
+  ![React](https://img.shields.io/badge/6+-Projects%20with%20React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+  ![Node.js](https://img.shields.io/badge/5+-Backend%20APIs-339933?style=for-the-badge&logo=node.js&logoColor=white)
+  ![MongoDB](https://img.shields.io/badge/4+-Database%20Integrations-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+  ![Deployed](https://img.shields.io/badge/10+-Live%20Projects-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+
 </div>
 
 ## 📊 GitHub Stats
@@ -198,8 +254,24 @@ I believe in:
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
 </div>
 
+## 🤝 Let's Connect
+
+<div align="center">
+  
+  I'm always open to discussing new opportunities, collaborating on interesting projects, or just having a chat about technology!
+  
+  [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20My%20Site-4F46E5?style=for-the-badge&logo=google-chrome&logoColor=white)](https://portfoliomohamedbouzayan.netlify.app/)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's%20Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mouhamed-bouzayan-9a7222344/)
+  [![Email](https://img.shields.io/badge/Email-Drop%20a%20Message-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohammedbouzi177@gmail.com)
+  
+</div>
+
+---
+
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=MOUHAMEDBOUZAYAN&color=6A5ACD&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views Counter" />
+  
+  **Thanks for visiting! ⭐ Star some repositories if you find them interesting!**
 </div>
 
 <!-- 
