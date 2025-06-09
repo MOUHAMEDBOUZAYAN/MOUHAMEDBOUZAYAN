@@ -88,7 +88,7 @@ I believe in:
             <a href="https://github.com/MOUHAMEDBOUZAYAN/Jury-Blanc-" target="_blank">
               <img src="https://img.shields.io/badge/Code-3F51B5?style=for-the-badge&logo=github&logoColor=white"/>
             </a>  
-            <a href="#" target="_blank">
+            <a href="https://constructionxpert.netlify.app/" target="_blank">
               <img src="https://img.shields.io/badge/Live-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
             </a>
           </p>
