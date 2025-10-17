@@ -194,6 +194,28 @@ I believe in:
           <p><strong>MERN Stack, WebAudio API</strong> - Application de streaming musical complète avec bibliothèque personnalisée, lecteur audio et gestion des playlists.</p>
         </div>
       </td>
+      <tr>
+  <td width="50%">
+    <h3 align="center">🧠 QuizMaster 24</h3>
+    <div align="center">
+      <a href="https://github.com/MOUHAMEDBOUZAYAN/Application-de-Quiz">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=MOUHAMEDBOUZAYAN&repo=Application-de-Quiz&theme=tokyonight&hide_border=true" />
+      </a>
+      <br>
+      <br>
+      <p>
+        <a href="https://github.com/MOUHAMEDBOUZAYAN/Application-de-Quiz" target="_blank">
+          <img src="https://img.shields.io/badge/Code-3F51B5?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+        <a href="https://quizmaster24.netlify.app/" target="_blank">
+          <img src="https://img.shields.io/badge/Live-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
+        </a>
+      </p>
+      <p><strong>React, Node.js, Express, MongoDB</strong> - منصة اختبارات تفاعلية تسمح للمستخدمين بالإجابة على أسئلة متعددة مع عرض النتائج فورياً وتصميم عصري وسريع.</p>
+    </div>
+  </td>
+</tr>
+
     </tr>
   </table>
 </div>
